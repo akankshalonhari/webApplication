@@ -1,4 +1,4 @@
-# webApplication
+# webApplication - Weather App with Firebase
 
 Creating progressing web apps & deploy to Firebase
 
